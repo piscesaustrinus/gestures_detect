@@ -1,4 +1,4 @@
-treamlit
+streamlit
 tensorflow
 tensorflow-hub
 opencv-python
